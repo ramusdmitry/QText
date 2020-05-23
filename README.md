@@ -13,7 +13,7 @@
 - Возможно потребуется установка .NET Framework на ваш компьютер.
 
 #### Google Colab
-   Пройдите по этой ссылке [My emnist neural network model.py](https://colab.research.google.com/drive/1_tLFF11bXe9al4YaN5tVjXtW7iMZKVJn?usp=sharing) и нажмите Runtime - ALL.
+   Пройдите по этой ссылке [My emnist neural network model.py](https://colab.research.google.com/drive/1_tLFF11bXe9al4YaN5tVjXtW7iMZKVJn?usp=sharing) и нажмите Runtime - Run all (CTRL + F9).
 
 ### Установка
 
