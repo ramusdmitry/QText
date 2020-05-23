@@ -12,6 +12,9 @@
 
 - Возможно потребуется установка .NET Framework на ваш компьютер.
 
+#### Google Colab
+    Пройдите по этой ссылке https://colab.research.google.com/drive/1_tLFF11bXe9al4YaN5tVjXtW7iMZKVJn?usp=sharing и нажмите Runtime -> ALL.
+
 ### Установка
 
 - Установите Visual Studio 2019 (любую версию) и пакет .NET Framewrok в Visual Installer ("Разработка классических приложение .NET").
