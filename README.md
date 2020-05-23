@@ -9,8 +9,8 @@
 ##### Windows
 
     Скачайте из папки Windows/binary и запустите QText.exe
-:fa-exclamation-triangle:
-- Возможно потребуется установка .NET Framework на ваш компьютер
+
+- Возможно потребуется установка .NET Framework на ваш компьютер.
 
 ### Установка
 
