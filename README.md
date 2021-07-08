@@ -1,6 +1,6 @@
 # QText - распознавание текста с помощью нейросети.
 
-
+:exclamation: :exclamation: :exclamation: Старая версия от 2020 года, новая находится в папке modern
 ## Запуск
 ##### Android
 
