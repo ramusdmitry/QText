@@ -22,14 +22,6 @@
 <img src="https://github.com/ramusdmitry/QText/blob/master/screens/05.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/06.jpg">
 <img src="https://github.com/ramusdmitry/QText/blob/master/screens/07.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/08.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/09.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/10.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/11.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/12.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/07.jpg">
 
-### Links
-
-<img src="https://cloud.githubusercontent.com/assets/29163250/26754498/4422864c-487c-11e7-9131-3109433ebf24.png" width="24"> [Dmitry Ramus](https://t.me/rxovac)
-
-<img src="https://cloud.githubusercontent.com/assets/29163250/26754498/4422864c-487c-11e7-9131-3109433ebf24.png" width="24"> [Victoria Veselkova](https://t.me/hiddenviki)
-
-
-
 ### Screenshots
 
 
