@@ -15,13 +15,6 @@
 
 <a class="github-button" href="https://drive.google.com/file/d/1Zjcs5Bwd9xg04Q5qb-Pw_YRwfSNDM_H1/view?usp=sharing" data-icon="octicon-download" aria-label="Download ntkme/github-buttons on GitHub">Download source</a>
 
-# Presentation
-
-<img src="https://github.com/ramusdmitry/QText/blob/master/screens/01.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/02.jpg">
-<img src="https://github.com/ramusdmitry/QText/blob/master/screens/03.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/04.jpg">
-<img src="https://github.com/ramusdmitry/QText/blob/master/screens/05.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/06.jpg">
-<img src="https://github.com/ramusdmitry/QText/blob/master/screens/07.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/08.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/09.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/10.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/11.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/12.jpg"><img src="https://github.com/ramusdmitry/QText/blob/master/screens/07.jpg">
-
 ### Screenshots
 
 
